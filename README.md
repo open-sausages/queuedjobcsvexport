@@ -54,3 +54,7 @@ class ExportJob extends ExportObjectsCSVJob {
     }
 }
 ```
+
+## Related
+
+ * [silverstripe/gridfieldqueuedexport](https://github.com/silverstripe/silverstripe-gridfieldqueuedexport): Batched exports on GridField. Also uses queuedjobs, but provides a progress UI to the user.
